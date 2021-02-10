@@ -3,7 +3,7 @@
 # Run `pod lib lint tap_payment_markaa.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'go_sell_sdk_flutter'
+  s.name             = 'tap_payment_markaa'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
