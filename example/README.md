@@ -1,6 +1,6 @@
-# go_sell_sdk_flutter_example
+# tap_payment_markaa_example
 
-Demonstrates how to use the go_sell_sdk_flutter plugin.
+Demonstrates how to use the tap_payment_markaa plugin.
 
 ## Getting Started
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/go_sell_sdk_flutter.iml" filepath="$PROJECT_DIR$/go_sell_sdk_flutter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/go_sell_sdk_flutter_android.iml" filepath="$PROJECT_DIR$/android/go_sell_sdk_flutter_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/android/go_sell_sdk_flutter_example_android.iml" filepath="$PROJECT_DIR$/example/android/go_sell_sdk_flutter_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tap_payment_markaa.iml" filepath="$PROJECT_DIR$/tap_payment_markaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/tap_payment_markaa_android.iml" filepath="$PROJECT_DIR$/android/tap_payment_markaa_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/tap_payment_markaa_example_android.iml" filepath="$PROJECT_DIR$/example/android/tap_payment_markaa_example_android.iml" />
     </modules>
   </component>
 </project>

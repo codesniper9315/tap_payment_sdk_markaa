@@ -1,4 +1,4 @@
-package tap.company.go_sell_sdk_flutter_example;
+package tap.company.tap_payment_markaa_example;
 
 import android.content.Intent;
 

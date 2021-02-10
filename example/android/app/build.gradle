@@ -33,7 +33,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "tap.company.go_sell_sdk_flutter_example"
+        applicationId "tap.company.tap_payment_markaa_example"
         minSdkVersion 17
         targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()

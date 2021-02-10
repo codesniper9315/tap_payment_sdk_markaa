@@ -1,4 +1,4 @@
-package tap.company.go_sell_sdk_flutter;
+package tap.company.tap_payment_markaa;
 
 import android.app.Activity;
 import android.app.Application;
@@ -113,7 +113,7 @@ public class GoSellSdkFlutterPlugin implements MethodChannel.MethodCallHandler, 
     // This is null when not using v2 embedding;
     private Lifecycle lifecycle;
     private LifeCycleObserver observer;
-    private static final String CHANNEL = "tap.company.go_sell_sdk_flutter.GoSellSdkFlutterPlugin";
+    private static final String CHANNEL = "tap.company.tap_payment_markaa.GoSellSdkFlutterPlugin";
 
     /**
      * Register with
@@ -199,7 +199,7 @@ public class GoSellSdkFlutterPlugin implements MethodChannel.MethodCallHandler, 
         this.activity = activity;
         this.application = application;
         this.delegate = constructDelegate(activity);
-        channel = new MethodChannel(messenger, "go_sell_sdk_flutter");
+        channel = new MethodChannel(messenger, "tap_payment_markaa");
         channel.setMethodCallHandler(this);
         observer = new LifeCycleObserver(activity);
         if (registrar != null) {

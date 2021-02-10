@@ -4,7 +4,7 @@ PODS:
     - SwiftLint
     - TapAdditionsKitV2
   - Flutter (1.0.0)
-  - go_sell_sdk_flutter (0.0.1):
+  - tap_payment_markaa (0.0.1):
     - Flutter
     - goSellSDK (= 2.2.35)
   - goSellSDK (2.2.35):
@@ -77,7 +77,7 @@ PODS:
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - go_sell_sdk_flutter (from `.symlinks/plugins/go_sell_sdk_flutter/ios`)
+  - tap_payment_markaa (from `.symlinks/plugins/tap_payment_markaa/ios`)
 
 SPEC REPOS:
   trunk:
@@ -105,14 +105,14 @@ SPEC REPOS:
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  go_sell_sdk_flutter:
-    :path: ".symlinks/plugins/go_sell_sdk_flutter/ios"
+  tap_payment_markaa:
+    :path: ".symlinks/plugins/tap_payment_markaa/ios"
 
 SPEC CHECKSUMS:
   CardIODynamic: 4a0d2d0e7b82993ceca67491564934c3475fbe79
   EditableTextInsetsTextFieldV2: 1a58f373146cba9cf570e28ae84f44f3d342da00
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  go_sell_sdk_flutter: 36aa15b417c6f45e2e41365caf4cb177fa719e78
+  tap_payment_markaa: 36aa15b417c6f45e2e41365caf4cb177fa719e78
   goSellSDK: 3d08ae3494a81eb10a443c3f07bee4cecc31447f
   Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
   SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7

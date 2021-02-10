@@ -1,4 +1,4 @@
-package tap.company.go_sell_sdk_flutter;
+package tap.company.tap_payment_markaa;
 
 public class Constants {
     public static int ERROR_CODE_INVALID_CUSTOMER_ID=501;

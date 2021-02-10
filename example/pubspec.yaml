@@ -1,5 +1,5 @@
-name: go_sell_sdk_flutter_example
-description: Demonstrates how to use the go_sell_sdk_flutter plugin.
+name: tap_payment_markaa_example
+description: Demonstrates how to use the tap_payment_markaa plugin.
 publish_to: "none"
 
 environment:
@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  go_sell_sdk_flutter:
+  tap_payment_markaa:
     path: ../
 
 # For information on the generic Dart part of this file, see the

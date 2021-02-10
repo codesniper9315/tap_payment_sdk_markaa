@@ -1,4 +1,4 @@
-package tap.company.go_sell_sdk_flutter.deserializers;
+package tap.company.tap_payment_markaa.deserializers;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;

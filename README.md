@@ -1,4 +1,4 @@
-# go_sell_sdk_flutter
+# tap_payment_markaa
 
 Flutter plugin compatible version of goSellSDK library for both Android and iOS that fully covers payment/authorization/card saving/card tokenization process inside your Android application.
 Original SDKS
@@ -48,7 +48,7 @@ To use the SDK the following requirements must be met:
 
 ```dart
  dependencies:
-     go_sell_sdk_flutter: ^2.0.3
+     tap_payment_markaa: ^2.0.3
 ```
 
 ---

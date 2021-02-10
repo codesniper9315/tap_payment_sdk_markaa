@@ -1,4 +1,4 @@
-name: go_sell_sdk_flutter
+name: tap_payment_markaa
 description: Flutter plugin compatible version of goSellSDK library for both Android and iOS.
 version: 1.0.0
 homepage: https://github.com/iscojin/tap_payment_sdk_markaa.git
@@ -24,7 +24,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: tap.company.go_sell_sdk_flutter
+        package: tap.company.tap_payment_markaa
         pluginClass: GoSellSdkFlutterPlugin
       ios:
         pluginClass: GoSellSdkFlutterPlugin
@@ -36,7 +36,7 @@ flutter:
 # be modified. They are used by the tooling to maintain consistency when
 # adding or updating assets for this project.
 # plugin:
-#   androidPackage: tap.company.go_sell_sdk_flutter
+#   androidPackage: tap.company.tap_payment_markaa
 #   pluginClass: GoSellSdkFlutterPlugin
 # To add assets to your plugin package, add an assets section, like this:
 # assets:

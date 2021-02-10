@@ -1,4 +1,4 @@
-package tap.company.go_sell_sdk_flutter;
+package tap.company.tap_payment_markaa;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -25,7 +25,7 @@ import company.tap.gosellapi.open.models.TapCurrency;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.PluginRegistry;
-import tap.company.go_sell_sdk_flutter.deserializers.DeserializationUtil;
+import tap.company.tap_payment_markaa.deserializers.DeserializationUtil;
 
 public class GoSellSdKDelegate implements PluginRegistry.ActivityResultListener,
         PluginRegistry.RequestPermissionsResultListener, SessionDelegate {
